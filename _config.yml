@@ -1,20 +1,5 @@
 baseurl: /
-url: http://www.wozhuanfa.com
 
 paginate: 10
 
 markdown:         rdiscount
-pygments:         true
-
-title:            我赚发
-feed:             /atom.xml
-author:
-    name:         我赚发
-    email:        xurui2005@126.com
-description:      "linux，android，web，网赚"
-keywords:         "linux，android，web，网赚"
-about: 			  "web开发，linux， android 研究， git, gerrit, buildbot"
-
-style: 			 /css/style.css
-blogName: 		  我赚发
-blogDesc: 		 "web开发，linux， android 研究， git, gerrit, buildbot"
